@@ -1,4 +1,10 @@
-# Value Added Experiment 4: Smart Street Light System using Arduino and LDR
+# Value Added 4 - Smart Street Light System using Arduino and LDR
 
-## Aim
-Design and implement an automatic street-light controller that switches LEDs ON/OFF based on ambient light intensity and troubleshoot sensor calibration issues.
+Tinkercad circuit: https://www.tinkercad.com/things/fVvzwwwBq4E-add-value-project-2
+
+
+
+Files:
+- street_light.ino - Arduino code
+- circuit.png - circuit screenshot
+- output.png - simulation screenshot
