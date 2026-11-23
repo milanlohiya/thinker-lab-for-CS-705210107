@@ -1,4 +1,9 @@
-# Practical 9: Smart Street Light System
+# Practical 9 - Smart Street Light System using Arduino and LDR
 
-## Aim
-Design and implement a Smart Street Light System using Arduino and LDR sensor, including testing and troubleshooting.
+Tinkercad circuit:
+https://www.tinkercad.com/things/aK86pebr0hD-smart-street-light-practical-no9
+Files:
+- street_light.ino - Arduino code
+- circuit.png - circuit screenshot
+- output.png - simulation screenshot
+- testing_notes.txt - testing and troubleshooting notes (sensor calibration)
