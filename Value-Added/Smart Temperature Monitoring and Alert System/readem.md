@@ -1,4 +1,12 @@
-# Value Added Experiment 3: Smart Temperature Monitoring and Alert System
+# Value Added 3 - Smart Temperature Monitoring and Alert System
 
-## Aim
-Design a temperature monitoring system using Arduino, temperature sensor, buzzer, and LCD display that generates alerts when temperature exceeds a predefined threshold.
+Tinkercad circuit: https://www.tinkercad.com/things/74h46cH3Boz-smart-temperature-monitoring-and-alert-system
+
+
+
+Components: Arduino Uno, temperature sensor, buzzer, LCD display
+
+Files:
+- temperature_alert.ino - Arduino code
+- circuit.png - circuit screenshot
+- output.png - simulation screenshot
